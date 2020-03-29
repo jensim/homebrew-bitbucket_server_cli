@@ -1,4 +1,4 @@
-class Bbcli < Formula
+class BitBucketServerCli < Formula
   desc "Clone and update entire projects from BitBucket server, has interactive and non-interactive mode."
   homepage "https://github.com/jensim/bitbucket_server_cli"
   url "https://github.com/jensim/bitbucket_server_cli/releases/download/0.2.0/bitbucket_server_cli-mac.tar.gz"
