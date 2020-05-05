@@ -7,6 +7,5 @@ class BitbucketServerCli < Formula
 
   def install
     bin.install "bitbucket_server_cli"
-    system "bitbucket_server_cli", "completions"
   end
 end
